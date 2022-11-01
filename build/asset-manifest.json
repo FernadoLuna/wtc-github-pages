@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wtc-github-pages/build/static/css/main.1e29096c.css",
+    "main.js": "/wtc-github-pages/build/static/js/main.1b1928e3.js",
+    "static/media/Logo.png": "/wtc-github-pages/build/static/media/Logo.704abba82d31cd47d4ad.png",
+    "index.html": "/wtc-github-pages/build/index.html",
+    "main.1e29096c.css.map": "/wtc-github-pages/build/static/css/main.1e29096c.css.map",
+    "main.1b1928e3.js.map": "/wtc-github-pages/build/static/js/main.1b1928e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e29096c.css",
+    "static/js/main.1b1928e3.js"
+  ]
+}

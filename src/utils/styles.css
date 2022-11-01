@@ -1,0 +1,94 @@
+
+.table_boostrap{
+
+    height: 90vh;
+}
+
+/*new css*/
+
+.sidebar_col{
+ height: 100vh;
+ position: absolute;
+}
+
+.ul_idenfifer button {
+    color: white;
+}
+
+.ul_idenfifer a{
+    color: white !important;
+    padding-left: 10%;
+}
+
+.header_img{
+    padding: 0 !important;
+}
+
+.logotipo_img{
+    height: 100%;
+}
+
+.logotipo{
+    height: 100px;
+    background-image: url("https://deskset.intech.mx/img/header.png");
+}
+
+
+/*clientes */ 
+.modal_info_client{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    top:0;
+    left: 0;
+    height: 90vh;
+    overflow-y: scroll;
+}
+
+.modal_info_client_large{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    top:0;
+    left: 0;
+    overflow-y: scroll;
+    
+}
+
+
+
+.list-icons li{
+    display: inline;
+}
+
+
+
+
+.contentView::-webkit-scrollbar {display: none;}
+
+
+
+
+/* login*/
+.login_form{
+    width: 50%;
+    position: relative;
+    margin: auto;
+    padding-top: 10%;
+    }
+    
+    
+    .back{
+        height: 100vh;
+        width: 100vw;
+        background-image: url("https://img.freepik.com/foto-gratis/disparo-angulo-escala-grises-edificios-gran-altura-distrito-financiero-toronto-canada_181624-36013.jpg?w=996&t=st=1663017444~exp=1663018044~hmac=f637c4941b8b4d7966636dc879fcdcfa242bee92fadfbd3983683f12bda38f53");
+        background-size: contain;
+    }   
+    
+    
+    /*login fin */
+
